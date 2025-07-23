@@ -1,11 +1,6 @@
 # Trabalho do jogo do adivinha.
 #   Data de Entrega: 13/04/2025
 
-# Membros:
-#   . Gustavo Antônio Mariano 
-#   . João Paulo Ferreira 
-#   . Leonardo Gambaroni ALves 
-
 # Biblioteca para gerar números aleatórios. 
 import random 
 # Biblioteca para limpar o prompt de comando. 
